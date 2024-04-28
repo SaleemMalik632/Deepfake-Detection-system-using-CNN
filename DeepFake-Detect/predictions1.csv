@@ -1,0 +1,5 @@
+Filename,Prediction,Label
+real\abarnvbtwb-000-00.png,0.5003747,Real
+real\abarnvbtwb-002-00.png,0.94001573,Real
+fake\aagfhgtpmv-009-00.png,0.12797475,Fake
+fake\aapnvogymq-004-01.png,0.0008253074,Fake
